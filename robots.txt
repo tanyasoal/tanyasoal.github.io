@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tanyasoal.github.io/sitemaps-index.xml
